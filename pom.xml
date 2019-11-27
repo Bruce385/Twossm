@@ -13,13 +13,6 @@
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
- <!--
-
-     真香警告！！！
-
-         如果对mawen有疑惑或者报错不知道怎么解决可以呼唤我，我一直都在~
-
- -->
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
